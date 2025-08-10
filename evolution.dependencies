@@ -6,13 +6,13 @@
   },
   {
     "repository": "Deivid21/proprietary_vendor_motorola_MotCamera-common",
-    "target_path": "vendor/motorola/MotCamera-common"",
+    "target_path": "vendor/motorola/MotCamera-common",
     "remote": "gitlab",
     "branch": "android-15"
   },
   {
     "repository": "Deivid21/proprietary_vendor_motorola_MotCameraAI-common",
-    "target_path": "vendor/motorola/MotCameraAI-common"",
+    "target_path": "vendor/motorola/MotCameraAI-common",
     "remote": "gitlab",
     "branch": "android-15"
   },
