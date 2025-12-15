@@ -245,6 +245,7 @@ PRODUCT_PACKAGES += \
     FrameworksResProduct \
     FrameworksResTarget \
     LineageApertureAppCommon \
+    LineageSettingsProviderResCommon \
     NcmTetheringOverlay \
     SettingsProviderResCommon \
     SettingsResCommon \
